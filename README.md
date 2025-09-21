@@ -1,7 +1,7 @@
 # Reconhecimento Facial com OpenCV, MediaPipe e DeepFace
 
 ## 📌 Objetivo
-Este projeto implementa um sistema local de **cadastro e validação facial** utilizando `Numpy`, `OpenCV`, `MediaPipe`, `DeepFace`. No momento, 
+Este projeto implementa um sistema local de **cadastro e validação facial** utilizando `Numpy`, `OpenCV`, `MediaPipe`, `DeepFace`, `json`, `os` e `time`. No momento, 
 ele funciona em ambiente **desktop/notebook** com webcam, em etapas futuras, será integrado a um **aplicativo mobile em React Native**, 
 permitindo que usuários se cadastrem por reconhecimento facial.
 
